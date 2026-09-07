@@ -1,0 +1,10 @@
+    {
+        "cookiesKey": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEQAhoGCAIQBBgBIhwKBGR1aWQSFDE2MTQ1NDE5MzcwMTc3MDI5MDY3IhQKBXVuYW1lEgtTT05JQzIwMjIwMyIRCgN1aWQSCjM1OTY4NzE2MTUoAw.dYIk5XcIwQ23RucXJ-wAwhsiQM0r3w6nW2BbnBdKWn2Tr83McZaoYI2gUAzpWXH8yccV7M_ZvA9fJwL-tgcydyzvOzdO_LHUDHcuA9eHda2its3mDspPJNs28VB6tgSqlu_1N97Bmw6Kcpar0v3XLS-cM7UXkP0_srKAKhL3qidAx5Kn5YwMWkx64sYV6YkGwLJToLRf0vwDbOUefcD8Z7wxULwfRZyZVgmSb04cXjptCM0fIZ4bj2N-yZrmOveNCSIDh_y6N45kI3Y12UqCzdnAC7ckEE4fDAkir5kNA3nY47dvur1HJYTSY0FN_5Lo5VPF0U3w30pQT-4-OVWL23vDi0Ee1j3EMHaK12jxocCjJ28MTYijE16TOSDZ8yL3WRKa3mGoAc_rIJDbs3-TDGBM9Iv8aVYsJsyo4MYal7wJCWWIAjQjEqWgY9FUAJr2cQc77ZjmfQc0j3pyoOS8Nc5kDbOM4vzC7P_K3UuWs-Uv3LfNSyTo8mCtCKE2ecRGN4WKHdpI-68fd4PwgvEltAeTZDqtw9A_TmG-obiCE6xjIujNemf-4d_ZXA0-dCKV2ZCplsvWR_McXwCb3RyRisf967_zSTBcj-WeJF3jMUQQPtmRYKDccwEKkfMNOu-PB_nohfJgaajAClDbTD0lalJhhElJWDG5dhj0oXyc2N_Q_s7dDegD-lx69atkoEC7IyWoTtibiWUi5Ue3NyX4rU0QGSbK8IAArRwGbsu6hs--EF7wS7vlkpMLMRT-VXLJi8ZlcTqpEFoCMMmDHaSumiSX-uBsGlwN1O9PzSoRd3G-3s0YgkBC1dOF8V8k6UWuL4matDs8UrxeaNxDK54S1niNAHkeQBpbsJnLIRqoqmFLkNfauLYEYXKVCPgz4-4KpwmrYWNhMwY-b42AY7v-Xw.vU1biKyL0hspj06WWuPyahf33MI",
+        "csrfKey": "floppas400@",
+        "redis": {
+            "host": "127.0.0.1",
+            "port": 6379,
+            "keyPrefix": "prefixHere",
+            "enableOfflineQueue": true
+        }
+    }
